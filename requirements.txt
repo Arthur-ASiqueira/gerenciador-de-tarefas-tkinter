@@ -1,0 +1,2 @@
+# O tkinter é uma biblioteca padrão do Python e não requer instalação via pip.
+# Nenhuma biblioteca externa adicional foi utilizada neste projeto.
